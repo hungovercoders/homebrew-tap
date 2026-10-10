@@ -13,7 +13,7 @@ brew install hungovercoders/tap/apic
 
 `brew upgrade apic` follows releases. To check a download before trusting
 it, every release is signed and ships a software bill of materials; see
-[verifying a release](https://hungovercoders.github.io/apic/verifying/).
+[verifying a release](https://apic.sh/verifying/).
 
 ## How it is maintained
 
