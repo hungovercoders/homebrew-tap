@@ -13,8 +13,8 @@ brew install hungovercoders/tap/terminal-of-terror
 | `apic` | `apic`, its man pages and shell completions, on macOS and Linux | [hungovercoders/apic](https://github.com/hungovercoders/apic) |
 | `terminal-of-terror` | `terminal-of-terror`, Channel 13's Creature Feature, on macOS and Linux | [hungovercoders/terminal-of-terror](https://github.com/hungovercoders/terminal-of-terror) |
 
-`brew upgrade <cask>` follows releases. To check a download before trusting
-it, every release is signed and ships a software bill of materials; see
+`brew upgrade <cask>` follows releases. To check an apic download before
+trusting it, every apic release is signed and ships a software bill of materials; see
 [verifying a release](https://apic.sh/verifying/).
 
 ## How it is maintained
